@@ -1,0 +1,31 @@
+_repo: William-the-Conqueror_1066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, E. A. (Edward Augustus)
+    - Freeman, Edward Augustus
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- William I, 1066-1087'
+- !lcsh 'Great Britain -- Kings and rulers -- Biography'
+- !lcsh 'William I, King of England, 1027 or 8-1087'
+- !lcsh 'Normans -- Great Britain -- Biography'
+- GITenberg
+title: William the Conqueror
+url: http://www.gutenberg.org/ebooks/1066
